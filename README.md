@@ -1,2 +1,2 @@
 # ArquivosFaculdade
-Conjunto dos meus trabalhos de Aquivos.
+Conjunto dos meus trabalhos de Arquivos.
