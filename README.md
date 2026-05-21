@@ -32,8 +32,8 @@ Os arquivos abaixo são compartilhados via Google Drive e devem ser baixados ant
 
 | Arquivo | Descrição | Tamanho aproximado | Download |
 |---|---|---|---|
-| `cep.dat` | Base original com 700.000 registros de CEP | ~200 MB | <a href="https://drive.google.com/file/d/1saOlmaJ08UEAX-ncYWRwcAgjKM5-4kor/view?usp=sharing">cep.dat</a> |
-| `cep_ordenado.dat` | Base com 700.000 CEPs previamente ordenados | ~200 MB | <a href="https://drive.google.com/file/d/1ls8G4af-MqTUGlBR9kFuyLxgVMwxMTKF/view?usp=sharing">cep_ordenado.dat</a> |
+| `cep.dat` | Base original com 700.000 registros de CEP | ~200 MB | <a href="https://drive.google.com/file/d/1saOlmaJ08UEAX-ncYWRwcAgjKM5-4kor/view?usp=sharing" target="_blank">cep.dat</a> |
+| `cep_ordenado.dat` | Base com 700.000 CEPs previamente ordenados | ~200 MB | <a href="https://drive.google.com/file/d/1ls8G4af-MqTUGlBR9kFuyLxgVMwxMTKF/view?usp=sharing" target="_blank">cep_ordenado.dat</a> |
 
 ---
 
