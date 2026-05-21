@@ -58,7 +58,7 @@ int main(int argc, char ** argv){
         fread(elemento1, sizeof(Indereco), 1, arq1);
         
         aux = strncmp(argv[1], elemento1->cep, 8);
-        printf("oi");
+        
         if(aux == 0){
             fseek(arq2, elemento1->posicao * sizeof(Endereco), SEEK_SET);
             fread(elemento2,sizeof(Endereco), 1, arq2);
