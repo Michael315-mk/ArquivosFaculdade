@@ -267,14 +267,16 @@ Portanto, o `saida1.dat` resultará em aproximadamente 64% do tamanho total (e d
 
 ## Ambiente e Compilação
 
-Os programas foram desenvolvidos e testados em ambiente Linux com o compilador GCC.
+Os programas foram desenvolvidos e testados em ambiente Windows com o compilador GCC.
 
 ```bash
 gcc nome_do_arquivo.c -o nome_do_executavel
+// Se for o processamento de csv
+gcc nome_do_arquivo.c CSVParser.c -o nome_do_executavel
+// Se for o Cep Indexado com árvore B
+gcc nome_do_arquivo.c ArvoreB.c -o  nome_do_executavel
 
 ```
-
-Não há dependências externas. Todos os programas utilizam apenas a biblioteca padrão do C (`stdio.h`, `stdlib.h`, `string.h`).
 
 ---
 
