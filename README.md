@@ -15,9 +15,9 @@ Os arquivos de dados utilizados (`cep.dat`, `cep_ordenado.dat` e `owid-covid-dat
 │   ├── ArvoreB.c
 │   ├── ArvoreB.h
 │   ├── criacao_sorteada.c
-│   ├── criar_saida1.c
-│   ├── teste-busca.c
-│   └── teste-insere.c
+│   └── criar_saida1.c
+│   
+│   
 │
 ├── Processamento de CSV Covid/
 │   ├── CSVParser.c
