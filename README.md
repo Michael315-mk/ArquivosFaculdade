@@ -270,10 +270,11 @@ Portanto, o `saida1.dat` resultará em aproximadamente 64% do tamanho total (e d
 Os programas foram desenvolvidos e testados em ambiente Windows com o compilador GCC.
 
 ```bash
+# Compilação dos 3 primeiros projetos
 gcc nome_do_arquivo.c -o nome_do_executavel
-// Se for o processamento de csv
+# Se for o processamento de csv
 gcc nome_do_arquivo.c CSVParser.c -o nome_do_executavel
-// Se for o Cep Indexado com árvore B
+# Se for o Cep Indexado com árvore B
 gcc nome_do_arquivo.c ArvoreB.c -o  nome_do_executavel
 
 ```
